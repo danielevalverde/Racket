@@ -10,6 +10,8 @@
 ;A operação consretorna uma lista que é a concatenação de uma cabeça com uma cauda
 ;(cons 'a '(b c)) , retorna (a b c)
 ;(cons '(a) '(b c)) , retorna ((a) b c)
+(define addFun +)
+; no console( addFun 4 3)
 
 (define A' (1 ))
 (define B' (3 4 ))
