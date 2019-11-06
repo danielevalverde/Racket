@@ -9,7 +9,10 @@
 (define c (append a b))
 ; chamada = c
 
-
+(define (copy L)
+  (if (null? L)
+      '() 
+      (cons (first L) (copy (rest L)))))
 
 ; (define A '( 1 3 4 )) (define B (copy A)) (equal? A B)
 

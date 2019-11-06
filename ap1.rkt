@@ -13,6 +13,9 @@
 (define addFun +)
 ; no console( addFun 4 3)
 
+;(cons 1( cons 2(cons 3(cons 4 '() ))))
+
+;define list
 (define A' (1 ))
 (define B' (3 4 ))
 
