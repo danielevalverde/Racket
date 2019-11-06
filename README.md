@@ -1,1 +1,1 @@
-# Reposirory created to keep Racket codes
+# Repository created to keep Racket codes
